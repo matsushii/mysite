@@ -1,5 +1,4 @@
+*.log
 *.pyc
 __pycache__/
 .DS_Store
-mysite/__pycache__/settings.cpython-38.pyc
-*.pyc
